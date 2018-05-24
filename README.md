@@ -23,3 +23,11 @@ Objectifs
 Susciter désir, les attirer vers la lecture, vers l'utilisation des fonctionnalités de la biblio
 
 
+
+
+Directions ajoutées du Client(Pat)
+==================================
+
+1. pas trop flashy au début. Plutôt sobre 
+2. 
+
