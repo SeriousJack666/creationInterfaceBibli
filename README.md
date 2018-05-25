@@ -13,14 +13,14 @@ passer par les étapes de développement de prototypage en 1er lieu
 Cibles
 ========
 
-Jeunes enfants [4/5 ans] à [15/18 ans]
+3 personas :  [4/5 ans], [5/15 ans], [15/18 ans].
 
 
 
 Objectifs
 =========
 
-Susciter désir, les attirer vers la lecture, vers l'utilisation des fonctionnalités de la biblio
+Susciter désir, les attirer vers la lecture, vers l'utilisation répétées des fonctionnalités de la biblio
 
 
 

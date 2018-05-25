@@ -6,4 +6,4 @@ ______________
 
 Jet 2
 ______________
-[]
+[jeux-en-ligne, éducatif, Game-of-Thrones, Pokemon, Jeux de rôle, échanges, cadeaux, personnages, goodies(contenus cachés), chevaliers, prince/princesses]

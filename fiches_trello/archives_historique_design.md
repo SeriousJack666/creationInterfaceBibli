@@ -18,4 +18,4 @@ _________________________________________
 
 URL : http://mediatheques.legrandnarbonne.com/
 
-Remarques : menu intuitif thematique en bas !!! / espaces dédiés pour cibles définies(jeunesse, numérique...) / espace nouveauté / journal / calendrier d'évênements
+Remarques : menu intuitif thematique en bas !!! / espaces dédiés pour cibles définies(jeunesse, numérique...) / espace nouveauté / journal / calendrier d'évênements / RUBRIQUES menu /
