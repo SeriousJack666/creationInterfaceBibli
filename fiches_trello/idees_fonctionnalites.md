@@ -19,12 +19,12 @@ parcours = après point de départ, toile de noeuds décisionnels, choix multipl
  
 noeud = plusieurs possibilités (varier les plaisirs)
 	1_QCM sur culture lecture spécifique à la zone
-
+	2_...?
 _______________Corrections
 principe de "cacher", de restreindre l'accès à la lecture est tangent...
 
  
-ATTENTION!! durée et complexité du parcours en rapport avec la tranche d'âge concernée
+ATTENTION!! durée, contenu et complexité du parcours en rapport avec la tranche d'âge concernée
 ________________.
 _____________________________________________________________________________________
 .Créer le désir, l'intérêt pour la lecture
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 rapport affectif à la couverture(couleur, typo...)
 licences marketised (star wars, hunger games, harry potter, naruto,...)
-auteurs connus et suivis de longue date le par le lecteur
+auteurs connus et suivis de longue date par le lecteur
 
 offrir la possibilité aux enseignants, chefs de groupes de lectures..., de proposer aux gestionnaires d'Archipel des livres précis pour créer des parcours (donc intéractions entre noeuds de choix) particuliers.
 
@@ -77,7 +77,7 @@ avoir une expérience personnalisée à chaque page
 
 avoir un espace dédié (chambre/maison/planète...)
 
-copy/store parties de tout contenu textuel ouvert
+copy/store parties de tout contenu textuel ouvert 
 
 ________________________________________________________________________________
 .l'espace de l'utilisateur
