@@ -29,5 +29,6 @@ Directions ajoutées du Client(Pat)
 ==================================
 
 1. pas trop flashy au début. Plutôt sobre 
-2. 
+2. proposer navigation dans bibliothèque par genres
+3. fonctionnalité d'emprunt de livre(par formulaire) / fonctionnalité de lecture en ligne(format numérique)
 
