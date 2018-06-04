@@ -95,7 +95,7 @@ ________________________________________________________________________________
 
 designs, objets de culture utilisés(fonds/personnages...),  en rupture forte d'une tranche d'âge à l'autre
 
-si l'utilisateur a [5/15]ans, il a le choix entre la porte 1 ET la porte 2, PAS la 3
+si l'utilisateur a [9/15]ans, il a le choix entre la porte 1 ET la porte 2, PAS la 3
 
 aventure à choix multiples (style collection "Histoire dont vous êtes le héros")
 

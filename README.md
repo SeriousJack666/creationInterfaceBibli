@@ -13,7 +13,7 @@ passer par les étapes de développement de prototypage en 1er lieu
 Cibles
 ========
 
-3 personas :  [4/5 ans], [5/15 ans], [15/18 ans].
+3 personas :  [4/9 ans], [9/15 ans], [15/18 ans].
 
 
 
