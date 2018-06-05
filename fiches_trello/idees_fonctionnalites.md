@@ -122,6 +122,22 @@ icône associé au tagName[x]; passage/pages/sample d'une oeuvre; un choix direc
  
 
 
+3. xième jet
+
+=========================================================================
+retours critiques sur notre interface, intégration design ET ergonomie :
+
+- toutes les pages sont trop denses, permettent de faire trop de choses
+
+- choisir contenu ciblé à l'ENTREE du site (avant page d'acceuil)
+
+- réfléchir au contenu utilisateur habituel ou nouveau
+
+- idées fonctionnalités : tri par nombre de pages possible 
+
+- définir les exemples de contenu de livres accessibles hors-compte créé
+
+
 
 
 
